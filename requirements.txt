@@ -2,4 +2,4 @@ numpy
 ipywidgets
 nbinteract
 bqplot
-platypus
+platypus-opt
